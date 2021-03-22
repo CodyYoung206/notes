@@ -13,4 +13,4 @@ This is my reading notes for CodeFellows
 *Italics*
 **BOLD**
 [Star Wars.com] (https://StarWars.com)
-![Image1] (![Image1] https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/1200px-Star_wars2.svg.png)
+![Image] (![Image] https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/1200px-Star_wars2.svg.png)
