@@ -10,3 +10,7 @@ This is my reading notes for CodeFellows
 -Item 1
 -Item 2
 -Item 3
+*Italics*
+**BOLD**
+[Star Wars.com] (https://StarWars.com)
+![Image1] (![Image1] https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Star_wars2.svg/1200px-Star_wars2.svg.png)
